@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=315724&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Group 6024 - {ETF and Stock price analysis}
 
 - Your title can change over time.
 
@@ -9,17 +9,16 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+By the end of the project I would like to create an easy to use dashboard that analyzes stocks or ETF's, comparing different statistics like standard deviation, market exposure (beta), and P/E ratio. 
+I would love to do this using a combination of Excel, R studio and Python, all three languages/applications already have plenty of publicly available tools and packages to breakdown and analyze the data further. 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Currently the master raw dataset has thousands of stocks and ETF's. With 5 variables which are Open, close, high, low, and volume. I can currently only obtain these five variables, I plan of finding a way to include financial information like earnings, dividends, splits, and possibly plot major news/economic events. 
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+I am currently majoring in International Relations and am very interested in taking a data science minor. I have had a strong interest in stocks and finance since I was in junior high, so this project is a perfect opportunity to use that knowledge in a data science format. 
 
 ## References
 
