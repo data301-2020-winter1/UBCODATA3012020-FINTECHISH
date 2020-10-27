@@ -15,6 +15,7 @@ I would love to do this using a combination of Excel, R studio and Python, all t
 ## Describe your dataset in about 150-200 words
 
 Currently the master raw dataset has thousands of stocks and ETF's. With 5 variables which are Open, close, high, low, and volume. I can currently only obtain these five variables, I plan of finding a way to include financial information like earnings, dividends, splits, and possibly plot major news/economic events. 
+This data set was obtained from kaggle, listed under Stocks and ETF's, it collects data from every day since inception, going all the way to 2017. It was difficult finding free stock data that was useful and did not require an API, but these challenges will be overcome by the end of the project.
 
 ## Team Members
 
