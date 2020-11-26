@@ -1,1 +1,3 @@
 WE ARE FIRST CONVERTING ETF txt. FILES INTO csv. FILES FOR EASIER HANDLING, WRANGLING, MANIPULATION ETC.
+might not be converting files, first we are going to sort the different ETF's by who they are managed by
+For example, all ETF's managed by RBC, will be in "etfs.rbc.txt" or something similar
