@@ -1,0 +1,11 @@
+WE ARE FIRST CONVERTING ETF txt. FILES INTO csv. FILES FOR EASIER HANDLING, WRANGLING, MANIPULATION ETC.
+might not be converting files, first we are going to sort the different ETF's by who they are managed by
+For example, all ETF's managed by RBC, will be in "etfs.rbc.txt" or something similar
+/nov. 25th @2:00pm
+
+So this turned into its own part of the project:
+We will be breaking down ETF's by company and comparing their performance
+Within my dataset there were hundreds of ETF's that are no longer active today 
+(from my first rudimentary analysis, it seems alot of smaller funds may have closed due to the market crash in february/march, I may include this in a separate tableau dashboard)
+Once all the .txt files are sorted into their proper folder, the cleaned data set will be uploaded here.
+/nov. 25th @8:20pm
