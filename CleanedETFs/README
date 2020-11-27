@@ -9,3 +9,6 @@ Within my dataset there were hundreds of ETF's that are no longer active today
 (from my first rudimentary analysis, it seems alot of smaller funds may have closed due to the market crash in february/march, I may include this in a separate tableau dashboard)
 Once all the .txt files are sorted into their proper folder, the cleaned data set will be uploaded here.
 /nov. 25th @8:20pm
+
+added cleaned etf data, separated by managing company
+/nov 26th 12:16am
