@@ -1,6 +1,10 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=315724&assignment_repo_type=GroupAssignmentRepo)
 # Group 6024 - {ETF and Stock price analysis}
 
+PROFESSOR AND TA: https://youtu.be/K7X7sR1oXr0
+(im sorry if its too long, theres lots of data to show off)
+
+
 What are the best investments for securing your own CERB or UBI (unversal basic income)
 We are going to look at the 5 largest ETF providers. Vanguard, StateStreet, Charles Schwab, iShares and Invesco. We will take their ETF's that are most suited to our goals.
 - monthly dividend payout
