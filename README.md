@@ -2,7 +2,11 @@
 # Group 6024 - {ETF and Stock price analysis}
 
 What are the best investments for securing your own CERB or UBI (unversal basic income)
-We will look at income focused etfs' and narrow down the best*****
+We are going to look at the 5 largest ETF providers. Vanguard, StateStreet, Charles Schwab, iShares and Invesco. We will take their ETF's that are most suited to our goals.
+- monthly dividend payout
+- high as possible dividend yield
+I then narrowed it down to 6-7 ETF's for each companies' portfolio. We are students, while diversification is key to long term risk management, we arent playng around with any significant capital lol. 
+Important to note: Charles Schwab only offers 4 income etf's so only those four were used in its simulation. 
 
 ## Milestones
 
@@ -23,5 +27,7 @@ This data set was obtained from kaggle, listed under Stocks and ETF's, it collec
 I am currently majoring in International Relations and am very interested in taking a data science minor. I have had a strong interest in stocks and finance since I was in junior high, so this project is a perfect opportunity to use that knowledge in a data science format. 
 
 ## References
-
-{Add your stuff here}
+https://www.investopedia.com/articles/investing/080415/5-biggest-etf-companies.asp - etf provider info
+https://campus.datacamp.com/courses/introduction-to-portfolio-risk-management-in-python/value-at-risk?ex=11 - very useful to understanding how to implement the different calculations into different files
+https://etfdb.com/ - website used to check dividend frequency
+https://www.quantlib.org/ - literally the only way i was able to complete this project, so many good scripts to look at and apply towards the project 
