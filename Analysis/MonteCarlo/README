@@ -1,0 +1,3 @@
+Attached is the scripts to run the montecarlo simulation. The simulation generates four plots and generates an excel file after running 10001 simulations on the desired portfolio.
+All plots can be found in the Images folder
+Excel files can be found in ExcelAnalysis under Analysis
